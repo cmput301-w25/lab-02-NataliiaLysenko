@@ -9,14 +9,14 @@
 ## References and Resources
 
 activity_main.xml:
-https://developer.android.com/develop/ui/views/layout/constraint-layout
-https://developer.android.com/develop/ui/views/layout/linear
-https://stackoverflow.com/questions/49490196/visibility-gone-not-working-for-me/49490710
+- (https://developer.android.com/develop/ui/views/layout/constraint-layout)
+- (https://developer.android.com/develop/ui/views/layout/linear)
+- (https://stackoverflow.com/questions/49490196/visibility-gone-not-working-for-me/49490710)
 
 MainActivity.java:
-https://www.ezzylearning.net/tutorial/handling-android-listview-onitemclick-event
-https://stackoverflow.com/questions/3766900/how-to-take-input-from-user-in-android
-https://stackoverflow.com/questions/4540754/how-do-you-dynamically-add-elements-to-a-listview-on-android
+- (https://www.ezzylearning.net/tutorial/handling-android-listview-onitemclick-event)
+- (https://stackoverflow.com/questions/3766900/how-to-take-input-from-user-in-android)
+- (https://stackoverflow.com/questions/4540754/how-do-you-dynamically-add-elements-to-a-listview-on-android)
 ## Verbal Collaboration
 
 | Student Name | CCID     |
